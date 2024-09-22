@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import HTTPRequests from './components/HTTPRequest';
+import HTTPHooks from './components/HTTPHooks';
 
 function App() {
   return (
     <div>
-      <HTTPRequests />
+      <HTTPHooks />
     </div>
   );
 }
